@@ -1,0 +1,6 @@
+{
+  "name": "LexResearch AI",
+  "description": "AI-based legal research assistant for commercial disputes with RAG retrieval, vector search, and verified citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
